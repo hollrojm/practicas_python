@@ -1,0 +1,12 @@
+09:15:40 - ERROR - El usuario Hollman ha fallado al ingresar la contrase�a
+09:15:40 - DEBUG - Este es un mensaje de debug
+09:15:40 - INFO - Este es un mensaje de info
+09:15:40 - WARNING - Este es un mensaje de warning
+09:15:40 - ERROR - Este es un mensaje de error
+09:15:40 - CRITICAL - Este es un mensaje de critical
+09:15:40 - ERROR - Ha ocurrido un error al dividir entre cero
+Traceback (most recent call last):
+  File "E:\practicas\cursoInLearnig\06_LOGGING\formato_logs.py", line 21, in <module>
+    dividir = 10/0
+              ~~^~
+ZeroDivisionError: division by zero

@@ -1,0 +1,45 @@
+{
+    "llave_string": "texto",
+    "otro_string": "texto",
+    "entero": 1,
+    "decimal": 1.1,
+    "booleano": true,
+    "booleano2": false,
+    "nulo": null,
+    "arreglo": [
+        "texto",
+        1,
+        1.1,
+        true,
+        false,
+        null
+    ],
+    "objeto": {
+        "llave_string": "texto",
+        "otro_string": "texto",
+        "entero": 1,
+        "decimal": 1.1,
+        "booleano": true,
+        "booleano2": false,
+        "nulo": null,
+        "arreglo": [
+            "texto",
+            1,
+            1.1,
+            true,
+            false,
+            null
+        ]
+    },
+    "personas": [
+        {
+            "nombre": "Juan",
+            "edad": 25
+        },
+        {
+            "nombre": "Ana",
+            "edad": 30
+        }
+    ],
+    "fecha": "2021-01-01T00:00:00Z"
+}
